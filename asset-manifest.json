@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hospitals/static/css/main.0b8983fa.css",
-    "main.js": "/hospitals/static/js/main.c73c01ff.js",
-    "static/js/787.b5bfac4d.chunk.js": "/hospitals/static/js/787.b5bfac4d.chunk.js",
-    "index.html": "/hospitals/index.html",
-    "main.0b8983fa.css.map": "/hospitals/static/css/main.0b8983fa.css.map",
-    "main.c73c01ff.js.map": "/hospitals/static/js/main.c73c01ff.js.map",
-    "787.b5bfac4d.chunk.js.map": "/hospitals/static/js/787.b5bfac4d.chunk.js.map"
+    "main.css": "/Care-in/static/css/main.0b8983fa.css",
+    "main.js": "/Care-in/static/js/main.540cc180.js",
+    "static/js/787.b5bfac4d.chunk.js": "/Care-in/static/js/787.b5bfac4d.chunk.js",
+    "index.html": "/Care-in/index.html",
+    "main.0b8983fa.css.map": "/Care-in/static/css/main.0b8983fa.css.map",
+    "main.540cc180.js.map": "/Care-in/static/js/main.540cc180.js.map",
+    "787.b5bfac4d.chunk.js.map": "/Care-in/static/js/787.b5bfac4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b8983fa.css",
-    "static/js/main.c73c01ff.js"
+    "static/js/main.540cc180.js"
   ]
 }
