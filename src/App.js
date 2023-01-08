@@ -21,7 +21,7 @@ function App() {
   const [progress, setProgress] = useState('10')
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/Care-in",
       element: <><Navbar setProgress={setProgress} title="Care.in" about="About" />
       <LoadingBar
         color='#f11946'
